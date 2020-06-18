@@ -1,5 +1,1 @@
-<img
-src=“steps.png”
-raw=true
-style=“margin-right: 10px;”
-/>
+![steps](https://github.com/JosephGolubchik/Suiter-Project/blob/master/steps.png?raw=true)
