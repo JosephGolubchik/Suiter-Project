@@ -1,1 +1,1 @@
-![steps](https://github.com/JosephGolubchik/Suiter-Project/blob/master/steps.png?raw=true)
+![steps](https://github.com/JosephGolubchik/Suiter-Project/blob/master/algorithm.png?raw=true)
