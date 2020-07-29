@@ -59,7 +59,7 @@ The project (file) is divided into 2 parts, 2 sub-files:
 
 #### Explanation about ` AndroidProject ` folder
 
-When you enter Android Studio, go to: ` File -> New -> Import Project.. ` And select the ` AndroidProject ` subfolder in the project folder (` Suiter-Project `).
+When you enter Android Studio, go to: ` File -> New -> Import Project.. ` and select the ` AndroidProject ` subfolder in the project folder (` Suiter-Project `).
 
 
 <a href="https://github.com/elihaimov1992/SuiterFinalProject"><img src="https://github.com/elihaimov1992/SuiterFinalProject/blob/master/pic1.jpg" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
