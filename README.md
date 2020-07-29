@@ -21,10 +21,10 @@ An app for selecting a suit and adapting it to the user.
 >   * [Step #1: Android Studio and Python Installation](#step-1-android-studio-and-python-installation)
 >   * [Step #2: Download the project folder (with all the files) from Github](#step-2-download-the-project-folder-with-all-the-files-from-github)
 > * [Usage](#usage)
->   * [Explanation about 'Android' folder](#explanation-about-android-folder)
->   * ['Android' (Suiter App) Example](#android-suiter-app-example)
->   * [Explanation about 'Python' folder](#explanation-about-python-folder)
->   * ['Python' Example](#python-example)
+>   * [Explanation about ` AndroidProject ` folder](#explanation-about-androidproject-folder)
+>   * [` AndroidProject ` (Suiter App) Example](#androidproject-suiter-app-example)
+>   * [Explanation about ` PythonProject ` folder](#explanation-about-pythonproject-folder)
+>   * [` PythonProject ` Example](#pythonproject-example)
 >   * [Articles](#articles)
 >   * [Tools](#tools)
 > * [Authors](#authors)
@@ -44,7 +44,7 @@ To get started developing in Android Studio and Python, you need to:
  
  #### Step #2: Download the project folder (with all the files) from Github
  
- At the end of downloading the folder, [Usage](#usage) provides detailed explanations about the installations and uses of the 2 subfolders ('Android' and 'Python'), respectively.
+ At the end of downloading the folder, [Usage](#usage) provides detailed explanations about the installations and uses of the 2 subfolders (` AndroidProject ` and ` PythonProject `), respectively.
  
 **Note: The explanation of all the algorithms is in the "Acknowledgments" content.
 
@@ -52,19 +52,19 @@ To get started developing in Android Studio and Python, you need to:
 ## Usage
 
 The project (file) is divided into 2 parts, 2 sub-files:
-1. Android folder - a folder with all the codes and graphic material (images) associated with the SUITER application.
-2. Python folder - a folder with all the codes (and libraries) and graphic material (images) related to the general algorithm of clothing worn on a human object identified in the image (by algorithms related to deep learning and computer vision)
+1. ` AndroidProject ` folder - a folder with all the codes and graphic material (images) associated with the Suiter application.
+2. ` PythonProject ` folder - a folder with all the codes (and libraries) and graphic material (images) related to the general algorithm of clothing worn on a human object identified in the image (by algorithms related to deep learning and computer vision)
 "The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action."
 
 
-#### Explanation about 'Android' folder
+#### Explanation about ` AndroidProject ` folder
 
-When you enter Android Studio, go to: ` File -> New -> Import Project.. ` And select the 'Android' subfolder in the project folder ('suiterfinalproject').
+When you enter Android Studio, go to: ` File -> New -> Import Project.. ` And select the ` AndroidProject ` subfolder in the project folder (` Suiter-Project `).
 
 
 <a href="https://github.com/elihaimov1992/SuiterFinalProject"><img src="https://github.com/elihaimov1992/SuiterFinalProject/blob/master/pic1.jpg" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
 
-Explanation of the main files of this folder ('Android'):
+Explanation of the main files of this folder (` AndroidProject `):
 * ` app -> manifest -> AndroidManifest.xml `: XML file with all the permissions of this application.
 * ` app -> java -> com -> example -> suiterfinalproject -> Activities -> CreateOutfitActivity `: A JAVA file that contains the main codes of this application, such as: initializing the objects and setting the actions of all the buttons in the application.
 
@@ -78,7 +78,7 @@ Explanation of the main files of this folder ('Android'):
    4. ` Outfit ` : A JAVA file with functions (setters and getters) for receiving and returning the clothing items in this application.
 * ` app -> res -> drawable `: Folder with all the graphic material (images) that appears in this application.
 
-**Note: All the graphic material is in the `drawable` folder, when the project is uploaded in the explained instructions, all the graphic materials will also be uploaded automatically, which will be downloaded with the entire Android subfolder (in the process of downloading the project file).
+**Note: All the graphic material is in the ` drawable ` folder, when the project is uploaded in the explained instructions, all the graphic materials will also be uploaded automatically, which will be downloaded with the entire ` AndroidProject ` subfolder (in the process of downloading the ` Suiter-Project ` project file).
 
 
 <a href="https://github.com/elihaimov1992/SuiterFinalProject"><img src="https://github.com/elihaimov1992/SuiterFinalProject/blob/master/pic3.jpg" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
@@ -90,17 +90,17 @@ Explanation of the main files of this folder ('Android'):
 * ` app -> res -> layout -> info.xml `: An XML file used as an information page. By pressing the information button, located in the lower area on the right side of the app, the above page will appear.
 
 
-#### 'Android' (Suiter App) Example
+#### ` AndroidProject ` (Suiter App) Example
 
 Paste a recording of the use of the application (start from the information page + select colors for items and download the suit and show the page with the color detail of the downloaded image)
 
 
-#### Explanation about 'Python' folder
+#### Explanation about ` PythonProject ` folder
 
-(explanation of yosi + pictures like in 'Android' example)
+(explanation of yosi + pictures like in ` AndroidProject ` example)
 
 
-#### 'Python' Example
+#### ` PythonProject ` Example
 
 Paste, in the end, picture with all procedure from presentation (Solution Description)
 
